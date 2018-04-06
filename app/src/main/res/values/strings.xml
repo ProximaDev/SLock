@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SLock</string>
+    <string name="AdminMsg">You Need To Active Device Admin First To Use The Lock Function</string>
+    <string name="disabled">Device Admin Disabled</string>
+    <string name="enabled">Device Admin Enabled</string>
+    <string name="fail">Fail to active Device Admin</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLock</string>
+    <string name="fail">حصل خطا اثناء الحصول على صلاحيات الجهاز</string>
+    <string name="enabled">تم تفعيل صلاحيات الجهاز للتطبيق</string>
+    <string name="disabled">تم تعطيل صلاحيات الجهاز للتطبيق</string>
+    <string name="AdminMsg">يجب عليك تفعيل صلاحيات الجهاز للتطبيق اولا لاستخدام خاصية القفل</string>
+</resources>
