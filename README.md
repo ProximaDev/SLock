@@ -1,9 +1,9 @@
-# SLock - Screen Lock with simple Click.
+# SLock - Screen Lock with simple click.
 
 
 <h3>License</h3>
 
-<code>
+<pre><code>
 The MIT License (MIT)
 
 Copyright (c) 2017 ProximaDev Team
@@ -25,4 +25,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</code>
+</code></pre>
