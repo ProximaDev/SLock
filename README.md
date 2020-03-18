@@ -1,13 +1,12 @@
 # SLock - Screen Lock with simple click.
-
-<a href='https://play.google.com/store/apps/details?id=com.remmoo997.slock'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height = "180px" width = "470px"/></a>
+Small app that turn your screen of with click event.
 
 <h3>License</h3>
 
 <pre><code>
 The MIT License (MIT)
 
-Copyright (c) 2017 ProximaDev Team
+Copyright (c) 2020 Rami Saad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
